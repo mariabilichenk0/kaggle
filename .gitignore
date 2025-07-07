@@ -1,0 +1,19 @@
+
+---
+
+## 3. Top-level `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Data & outputs (each project can have its own data folder)
+*/data/
+*/output/
+
