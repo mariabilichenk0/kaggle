@@ -1,4 +1,4 @@
 pandas
 numpy
 scikit-learn
--e .
+skorch>=0.12.0
