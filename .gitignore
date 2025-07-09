@@ -16,4 +16,5 @@ __pycache__/
 # Data & outputs (each project can have its own data folder)
 */data/
 */output/
+*/*info
 
